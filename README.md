@@ -15,27 +15,27 @@ The system features OLED-based animated eyes, touch-controlled expressions, wate
 
 ## Features
 
-✅ Automatic irrigation
+1. Automatic irrigation
 
-✅ Soil moisture monitoring
+2. Soil moisture monitoring
 
-✅ Temperature and humidity monitoring
+3. Temperature and humidity monitoring
 
-✅ Water tank level detection
+4. Water tank level detection
 
-✅ Low water level buzzer alert
+5. Low water level buzzer alert
 
-✅ OLED animated eyes
+6. OLED animated eyes
 
-✅ Touch-controlled facial expressions
+7. Touch-controlled facial expressions
 
-✅ Human detection using IR sensor
+8. Human detection using IR sensor
 
-✅ Blynk IoT remote monitoring
+9. Blynk IoT remote monitoring
 
-✅ Custom PCB design
+10. Custom PCB design
 
-✅ CAD enclosure design
+11. CAD enclosure design
 
 ---
 
